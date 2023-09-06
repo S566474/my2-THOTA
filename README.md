@@ -25,4 +25,9 @@ Link :- [MyStats](MyStats.md)
 | cricket   | bat and ball  |2|
 | chess     | competiton    |1|
 
+## Pithy Quotes
+---
+"Keep your face to the sunshine and you cannot see a shadow." *Helen Keller*
+"If you look at what you have in life, you’ll always have more" *Oprah Winfrey*
+
     
