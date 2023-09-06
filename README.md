@@ -27,7 +27,7 @@ Link :- [MyStats](MyStats.md)
 
 ## Pithy Quotes
 ---
-"Keep your face to the sunshine and you cannot see a shadow." *Helen Keller*
+"Keep your face to the sunshine and you cannot see a shadow." *Helen Keller*<br>
 "If you look at what you have in life, you’ll always have more" *Oprah Winfrey*
 
     
