@@ -16,4 +16,13 @@ I **Love** to go **Paris**
 
 Link :- [MyStats](MyStats.md)
 
+## Tables
+---
+|sports name| reason | hours |
+| --- | --- | --- |     |---:|
+| Badminton | we use to jump | 3 |
+| carroms | family time | 2 |
+| cricket | bat and ball | 2 |
+| chess | competiton | 1 |
+
     
